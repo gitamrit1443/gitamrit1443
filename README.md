@@ -93,7 +93,7 @@ I'm a passionate **Full Stack Developer** from Dehradun, India — building prod
 ---
 
 ### 🤖 AI Interview Coach *(In Progress)*
-> AI-powered mock interview platform with feedback generation and performance tracking using Groq API.
+> AI-powered mock interview platform with feedback generation and performance tracking using GeminiAPI.
 
 - **Tech Stack:** Gemini API · ASP.NET Core · Angular · SQL Server
 
