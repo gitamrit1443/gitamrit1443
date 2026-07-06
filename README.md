@@ -29,7 +29,7 @@ I'm a passionate **Full Stack Developer** from Dehradun, India — building prod
 - 🎓 B.Tech CSE @ Graphic Era Hill University, Dehradun (2026)
 - 💼 Self-Employed | Freelance Full Stack Developer
 - 🔭 Currently building: **AI Interview Coach**
-- 💬 Ask me about: **ASP.NET Core, Angular, Razor Pages, Clean Architecture**
+- 💬 Ask me about: **ASP.NET Core, Angular, Razor Pages,SQL
 
 ---
 
