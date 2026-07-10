@@ -24,7 +24,7 @@
 
 ## 🧠 About Me
 
-B.Tech CSE Graduate | Full Stack .NET Developer | ASP.NET Core, Razor Pages, Angular, SQL Server
+| Full Stack .NET Developer | ASP.NET Core, Razor Pages, Angular, SQL Server
 
 ---
 ## 🛠️ Skills & Tools
