@@ -24,9 +24,7 @@
 
 ## 🧠 About Me
 
-I'm a passionate **Full Stack Developer** from Dehradun, India — building production-quality SaaS products with clean architecture and real-world impact. I love integrating AI into web apps and shipping things that actually work.
-
-- 🎓 B.Tech CSE @ Graphic Era Hill University, Dehradun (2026)
+Final-year B.Tech CSE student and Full Stack .NET Developer building production-ready web applications with ASP.NET Core, Razor Pages, Angular and SQL Server.
 - 💼 Self-Employed | Freelance Full Stack Developer
 - 🔭 Currently building: **AI Interview Coach**
 - 💬 Ask me about: **ASP.NET Core, Angular, Razor Pages,SQL
@@ -65,7 +63,7 @@ I'm a passionate **Full Stack Developer** from Dehradun, India — building prod
 > A full-featured ATS platform with JWT + TOTP 2FA, background job scheduling, and real-time notifications.
 
 - **Tech Stack:** ASP.NET Core 8 · EF Core · Tailwind CSS · SQL Server · Hangfire
-- **Architecture:** Clean Architecture · Repository Pattern · Razor Pages
+- **Architecture:** . Razor Pages
 - ✅ Seeded demo data · Production-ready portfolio piece
 
 ---
