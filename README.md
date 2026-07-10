@@ -24,13 +24,9 @@
 
 ## 🧠 About Me
 
-Final-year B.Tech CSE student and Full Stack .NET Developer building production-ready web applications with ASP.NET Core, Razor Pages, Angular and SQL Server.
-- 💼 Self-Employed | Freelance Full Stack Developer
-- 🔭 Currently building: **AI Interview Coach**
-- 💬 Ask me about: **ASP.NET Core, Angular, Razor Pages,SQL
+B.Tech CSE Graduate | Full Stack .NET Developer | ASP.NET Core, Razor Pages, Angular, SQL Server
 
 ---
-
 ## 🛠️ Skills & Tools
 
 **Languages**
